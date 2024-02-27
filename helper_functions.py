@@ -1,5 +1,3 @@
-### We create a bunch of helpful functions throughout the course.
-### Storing them here so they're easily accessible.
 
 import tensorflow as tf
 
